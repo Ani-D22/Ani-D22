@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Ani-D22">ANIKET DATE</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/Ani-D22">ANIKET DATE</a>
 <p align="center">
   <b>A Passionate Java Developer | MCA Student | Problem Solver</b>
 </p>
@@ -89,7 +89,7 @@
 
 ---
 
-### 🔥 **"Code, Coffee, and Football!"** ☕⚽<p align="center">
+### 🔥 **"Code, Coffee and Football!"** ☕⚽<p align="center">
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRiNmp3cHlqeDhhNnB6anJ1cW93eXF0eHRjYWo4YWNzajd5NXM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif" height="150">
