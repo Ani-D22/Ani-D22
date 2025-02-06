@@ -1,2 +1,3 @@
-<h1>**Check out my projects @HotWaxSystems:**</h1>
+**Check out my projects @HotWaxSystems:**
+
 [Moqui Training]  (https://github.com/HotWaxSystemsOrg/moqui-training)
