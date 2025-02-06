@@ -1,16 +1,92 @@
 ## Hi there 👋
 
-<!--
-**Ani-D22/Ani-D22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm <a href="https://github.com/Ani-D22">ANIKET DATE</a> 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <b>A Passionate Java Developer | MCA Student | Problem Solver</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 💼 **Enterprise Software Developer Intern @ HotWax Systems**
+- 🎓 **Pursuing MCA from IPS Academy (RGPV)** | B.Com  (DAVV, 2020-2023)
+- 🏆 **5⭐ in SQL on HackerRank | Java (Basic) Certified**
+- 🔥 Passionate about **Backend Development, APIs, and System Design**
+- 🏗️ Building projects with **Java, Spring, OFBiz, MySQL, PostGreSQL, Moqui, Data Modeling and System Design**
+- ⚽ Football Fanatic | **Cristiano Ronaldo & Real Madrid Supporter** ❤️⚽
+
+---
+
+## 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Jakarta%20EE-%23007ACC.svg?style=for-the-badge&logo=jakartaee&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/H2-%2312100E.svg?style=for-the-badge&logo=h2&logoColor=white">
+  <img src="https://img.shields.io/badge/OracleDB-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white">
+  
+</p>
+
+---
+
+## 💻 Coding Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black">
+  <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white">
+  <img src="https://img.shields.io/badge/CodeChef-%230F9D58.svg?style=for-the-badge&logo=codechef&logoColor=white">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-%2310723D.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" width="50%">
+</p>
+
+---
+
+## ⚡ Fun Facts About Me
+- 🎮 I love playing FIFA & watching football
+- 🤖 Passionate about **System Design | Cyber Security | AI & Data Science**
+- 🚀 Always exploring new tech and frameworks
+- 🎨 Experienced in **Graphic Design | Video Editing**  
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/contactaniketdate">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:dateaniket07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Ani-D22">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🔥 **"Code, Coffee, and Football!"** ☕⚽
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2Ip7FrmPE9J0co/giphy.gif" width="200">
+</p>
+
