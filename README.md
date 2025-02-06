@@ -18,8 +18,7 @@
 ---
 
 <h2 align="center">
-  ## 🖱️⚙️🧑‍💻
-  <a href="https://github.com/orgs/HotWaxSystemsOrg/repositories" color="white" > My Projects @HotWaxSystems </a>
+  <a href="https://github.com/orgs/HotWaxSystemsOrg/repositories"> My Projects @HotWaxSystems </a>
 </h2>
 
 ---
