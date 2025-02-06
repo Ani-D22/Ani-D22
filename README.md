@@ -13,7 +13,7 @@
 - 🏆 **5⭐ in SQL on HackerRank | Java (Basic) Certified**
 - 🔥 Passionate about **Backend Development, APIs, and System Design**
 - 🏗️ Building projects with **Java, Spring, OFBiz, MySQL, PostGreSQL, Moqui, Data Modeling and System Design**
-- ⚽ Football Fanatic | **Cristiano Ronaldo & Real Madrid Supporter** ❤️⚽
+- ⚽ Football Fanatic | **HALA MADRID Y NADA MAS!** ❤️⚽
 
 ---
 
