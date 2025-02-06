@@ -86,5 +86,7 @@
 ---
 
 ### 🔥 **"Code, Coffee, and Football!"** ☕⚽<p align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBveGdhc3FwNG94YWU2bTR6dXh0a2t4dTJjYXdlbm85YjlsMTVmdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="300">
 </p>
+
