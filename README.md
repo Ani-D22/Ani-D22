@@ -17,7 +17,7 @@
 
 ---
 <h2 align="center">
-  <a href="https://github.com/Ani-D22/Ani-D22/MyProjects" >**My Projects @HotWaxSystems**</a>
+  <a href="https://github.com/Ani-D22/Ani-D22/MyProjects" > --- My Projects @HotWaxSystems --- </a>
 </h2>
 ---
 
