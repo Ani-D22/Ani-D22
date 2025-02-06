@@ -16,9 +16,9 @@
 - ⚽ Football Fanatic | **HALA MADRID Y NADA MAS!** ❤️⚽
 
 ---
-<p align="center">
+<h2 align="center">
   <a href="https://github.com/Ani-D22/Ani-D22/MyProjects" >**My Projects @HotWaxSystems**</a>
-</p>
+</h2>
 ---
 
 ## 🛠️ Tech Stack & Tools
