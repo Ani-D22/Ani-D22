@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Ani-D22">ANIKET DATE</a>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi there, I'm <a href="https://github.com/Ani-D22">ANIKET DATE</a>
+</h1>
 <p align="center">
   <b>A Passionate Java Developer | MCA Student | Problem Solver</b>
 </p>
@@ -8,7 +9,7 @@
 
 ## 🚀 About Me
 - 💼 **Enterprise Software Developer Intern @ HotWax Systems**
-- 🎓 **Pursuing MCA from IPS Academy (RGPV)** | B.Com  (DAVV, 2020-2023)
+- 🎓 **Pursuing MCA from IPS Academy (RGPV, 2023-Present)** | B.Com  (DAVV, 2020-2023)
 - 🏆 **5⭐ in SQL on HackerRank | Java (Basic) Certified**
 - 🔥 Passionate about **Backend Development, APIs, and System Design**
 - 🏗️ Building projects with **Java, Spring, OFBiz, MySQL, PostGreSQL, Moqui, Data Modeling and System Design**
