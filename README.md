@@ -10,7 +10,8 @@
 ## 🚀 About Me
 - 💼 **Enterprise Software Developer Intern @ HotWax Systems**
 - 🎓 **Pursuing MCA from IPS Academy (RGPV, 2023-Present)** | B.Com  (DAVV, 2020-2023)
-- 🏆 **5⭐ in SQL on HackerRank | Java (Basic) Certified**
+- 📚 **<a href="https://www.hackerrank.com/profile/dateaniket07">HackerRank</a>: Java (Basic) Certified | SQL (Intermediate) Certified | Software Engineer Intern**
+- 🏆 **80+ Problems solved on <a href="https://leetcode.com/u/Aniket_Date/">Leetcode</a> + GeeksForGeeks | 5⭐ in Java & SQL on HackerRank**
 - 🔥 Passionate about **Backend Development, APIs, and System Design**
 - 🏗️ Building projects with **Java, Spring, OFBiz, MySQL, PostGreSQL, Moqui, Data Modeling and System Design**
 - ⚽ Football Fanatic | **HALA MADRID Y NADA MAS!** ❤️⚽
