@@ -77,7 +77,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/Ani-D22">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZ4NG1qeGkwc24xaXJvdHQ0anFpMmt4aWlieTA4eGhxM3lxcmRuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12yjKJaLB7DuG4/giphy.gif"/>
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRjYzB5enViMXZtYzhzb3QzdXp3eDB4dmZ0bWcyenczanA0c2J0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m9QEBUSAdJ7ApIkekw/giphy.gif">
   </a>
 </p>
 
