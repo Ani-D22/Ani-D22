@@ -85,8 +85,6 @@
 
 ---
 
-### 🔥 **"Code, Coffee, and Football!"** ☕⚽
-<p align="center">
-  <img src="https://media.giphy.com/media/l3q2Ip7FrmPE9J0co/giphy.gif" width="200">
+### 🔥 **"Code, Coffee, and Football!"** ☕⚽<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBveGdhc3FwNG94YWU2bTR6dXh0a2t4dTJjYXdlbm85YjlsMTVmdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="300">
 </p>
-
