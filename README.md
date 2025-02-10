@@ -19,7 +19,7 @@
 ---
 
 <h2 align="center">
-  <a href="https://github.com/orgs/HotWaxSystemsOrg/repositories"> My Projects @HotWaxSystems </a>
+  My Projects <a href="https://github.com/orgs/HotWaxSystemsOrg/repositories">@HotWaxSystems</a>
 </h2>
 
 ---
