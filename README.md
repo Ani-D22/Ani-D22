@@ -25,7 +25,7 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Jakarta%20EE-%23007ACC.svg?style=for-the-badge&logo=jakartaee&logoColor=white">
@@ -50,7 +50,7 @@
 ---
 
 ## 💻 Coding Platforms
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black">
   <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white">
