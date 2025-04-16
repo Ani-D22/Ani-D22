@@ -18,14 +18,14 @@
 
 ---
 
-<h2 align="center">
+<h2 align="center" >
   My Projects <a href="https://github.com/orgs/HotWaxSystemsOrg/repositories">@HotWaxSystems</a>
 </h2>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-<p>
+<p align="center" >
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Jakarta%20EE-%23007ACC.svg?style=for-the-badge&logo=jakartaee&logoColor=white">
