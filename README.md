@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 💼 **Enterprise Software Developer Intern @ <a href="https://www.hotwaxsystems.com/">HotWax Systems</a>**
-- 🎓 **Pursuing MCA from IPS Academy (RGPV, 2025)**
+- 🎓 **Master of Computer Application from IPS Academy (RGPV, 2025)**
 - 📚 **<a href="https://www.hackerrank.com/profile/dateaniket07">HackerRank</a>: Java (Basic) Certified | SQL (Intermediate) Certified | Software Engineer Intern Certified**
 - 🏆 **80+ Problems solved on <a href="https://leetcode.com/u/Aniket_Date/">Leetcode</a> & GeeksForGeeks | 5⭐ in Java & SQL on HackerRank**
 - 🔥 Passionate about **Backend Development, APIs, and System Design**
