@@ -12,10 +12,10 @@
 - 🎓 **Master of Computer Application from IPS Academy (RGPV, 2025)**
 - 🏆 **Secured Global Rank #1005 in TCS CodeVita Season 12**
 - 📜 Certified by Telusko on Udemy: **Java Spring Framework | Boot | Microservices | AI | Security | Git | Docker | JWT & OAuth2 | RESTful API Development | Cloud Deployment on AWS**
-- 📚 **<a href="https://www.hackerrank.com/profile/dateaniket07">HackerRank</a>: Java (Basic) Certified | SQL (Intermediate) Certified | Software Engineer Intern Certified**
 - 🏆 **100+ Problems solved on <a href="https://leetcode.com/u/Aniket_Date/">Leetcode</a> & GeeksForGeeks | 5⭐ in Java & SQL on HackerRank**
 - 🔥 Passionate about **Backend Development, APIs, and System Design**
 - 🏗️ Building projects with **Java, Spring, OFBiz, MySQL, PostGreSQL, Moqui, Data Modeling and System Design**
+- 📚 **<a href="https://www.hackerrank.com/profile/dateaniket07">HackerRank</a>: Java (Basic) Certified | SQL (Intermediate) Certified | Software Engineer Intern Certified**
 - ⚽ Football Fanatic | **HALA MADRID Y NADA MAS!** ❤️⚽
 
 ---
