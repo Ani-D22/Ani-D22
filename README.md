@@ -19,10 +19,26 @@
 - ⚽ Football Fanatic | **HALA MADRID Y NADA MAS!** ❤️⚽
 
 ---
- 
+
 <h2 align="center" >
   My Projects <a href="https://github.com/orgs/HotWaxSystemsOrg/repositories">@HotWaxSystems</a>
 </h2>
+
+---
+
+## 📦 My Framework: `Generic Entity Framework`
+
+🚧 A lightweight, extensible backend framework built with <strong>Java + Spring Boot</strong> — designed for rapid API development using generic services, dynamic entity modeling, and database-first development.
+
+🔧 **Key Highlights**:
+- 🧱 Generic CRUD & PATCH services with DTOs and MapStruct
+- ⚙️ Clean service, repository, and controller layer separation
+- 🧬 Entity-driven architecture using JPA/Hibernate
+- 🔐 Integrated with Spring Security, JWT & OAuth2
+- 📘 OpenAPI (Swagger) support out-of-the-box
+- ☁️ Dockerized & ready for cloud deployment
+
+🔗 **Repo**: [generic-entity-framework](https://github.com/Ani-D22/generic-entity-framework)
 
 ---
 
