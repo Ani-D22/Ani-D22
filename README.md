@@ -36,7 +36,6 @@
 - 🧬 Entity-driven architecture using JPA/Hibernate
 - 🔐 Integrated with Spring Security, JWT & OAuth2
 - 📘 OpenAPI (Swagger) support out-of-the-box
-- ☁️ Dockerized & ready for cloud deployment
 
 🔗 **Repo**: [generic-entity-framework](https://github.com/Ani-D22/generic-entity-framework)
 
