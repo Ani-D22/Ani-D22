@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 💼 **Enterprise Software Developer @ <a href="https://www.hotwaxsystems.com/">HotWax Systems</a>**
+- 💼 **Software Developer (Enterprise Systems) @ <a href="https://www.hotwaxsystems.com/">HotWax Systems</a>**
 - 🎓 **Master of Computer Application from IPS Academy (RGPV, 2025)**
 - 🏆 **Secured Global Rank #1005 in TCS CodeVita Season 12**
 - 📜 Certified by Telusko on Udemy: **Java Spring Framework | Boot | Microservices | AI | Security | Git | Docker | JWT & OAuth2 | RESTful API Development | Cloud Deployment on AWS**
