@@ -2,13 +2,13 @@
   Hi there, I'm <a href="https://github.com/Ani-D22">ANIKET DATE</a> 
 </h1>
 <p align="center">
-  <b>A Passionate Java Developer | MCA Student | Problem Solver</b>
+  <b>A Passionate Java Developer | MCA '2025</b>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💼 **Enterprise Software Developer Intern @ <a href="https://www.hotwaxsystems.com/">HotWax Systems</a>**
+- 💼 **Enterprise Software Developer @ <a href="https://www.hotwaxsystems.com/">HotWax Systems</a>**
 - 🎓 **Master of Computer Application from IPS Academy (RGPV, 2025)**
 - 🏆 **Secured Global Rank #1005 in TCS CodeVita Season 12**
 - 📜 Certified by Telusko on Udemy: **Java Spring Framework | Boot | Microservices | AI | Security | Git | Docker | JWT & OAuth2 | RESTful API Development | Cloud Deployment on AWS**
