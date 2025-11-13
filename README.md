@@ -2,7 +2,7 @@
   Hi there, I'm <a href="https://github.com/Ani-D22">ANIKET DATE</a> 
 </h1>
 <p align="center">
-  <b>A Passionate Java Developer | MCA '2025</b>
+  <b>Software Developer | MCA 2025</b>
 </p>
 
 ---
