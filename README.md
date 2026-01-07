@@ -116,7 +116,7 @@
   <a href="https://linktr.ee/Ani_D22">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white">
   </a>
-</p> 
+</p>
 
 ---
 
