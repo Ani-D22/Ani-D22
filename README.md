@@ -1,20 +1,24 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi there, I'm <a href="https://github.com/Ani-D22">ANIKET DATE</a> 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi there, I'm <a href="https://github.com/Ani-D22">Aniket Date</a>
 </h1>
+
 <p align="center">
-  <b>Software Developer | MCA 2025</b>
+  <b>Software Developer | Java & Enterprise Systems | MCA 2025</b>
 </p>
 
 ---
 
 ## 🚀 About Me
 - 💼 **Software Developer (Enterprise Systems) @ <a href="https://www.hotwaxsystems.com/">HotWax Systems</a>**
+  Working on large-scale **enterprise commerce systems** using Apache OFBiz, Moqui, and Java-based backend architectures.
+
 - 🎓 **Master of Computer Application from IPS Academy (RGPV, 2025)**
 - 🏆 **Secured Global Rank #1005 in TCS CodeVita Season 12**
 - 📜 Certified by Telusko on Udemy: **Java Spring Framework | Boot | Microservices | AI | Security | Git | Docker | JWT & OAuth2 | RESTful API Development | Cloud Deployment on AWS**
 - 🏆 **100+ Problems solved on <a href="https://leetcode.com/u/Aniket_Date/">Leetcode</a> & GeeksForGeeks | 5⭐ in Java & SQL on HackerRank**
 - 🔥 Passionate about **Backend Development, APIs, and System Design**
-- 🏗️ Building projects with **Java, Spring, OFBiz, MySQL, PostGreSQL, Moqui, Data Modeling and System Design**
+- 🏗️ Building projects with **Java, Spring, MySQL, PostGreSQL, OFBiz, Data Modeling and System Design**
 - 📚 **<a href="https://www.hackerrank.com/profile/dateaniket07">HackerRank</a>: Java (Basic) Certified | SQL (Intermediate) Certified | Software Engineer Intern Certified**
 - ⚽ Football Fanatic | **HALA MADRID Y NADA MAS!** ❤️⚽
 
