@@ -4,7 +4,7 @@
 </h1>
  
 <p align="center">
-  <b>Software Developer | Java & Enterprise Systems | MCA 2025</b>
+  <b>Software Engineer | Java, Spring Boot, SQL, Microservices & Enterprise Systems</b>
 </p>
 
 ---
